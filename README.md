@@ -2,9 +2,6 @@ Hi, I'm Mahdi Mahdavi, a passionate self-taught software engineer from Iran. my 
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  
-- 💼 any freelance work? do reach, [email](mahdi.mahdavi.maz@gmail.com) :)
-
 **languages and tools:**  
 
 
