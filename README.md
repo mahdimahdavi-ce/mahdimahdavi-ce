@@ -29,18 +29,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-NodeJS       12 hrs 38 mins  ██████████████████████░░░   87.58 %
-NestJS       12 hrs 38 mins  ██████████████████████░░░   87.58 %
-TypeScript   12 hrs 38 mins  ██████████████████████░░░   87.58 %
-PostgreSQL   12 hrs 38 mins  ██████████████████████░░░   87.58 %
-Redis        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-```
-
 <!--END_SECTION:waka-->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="600" />
 
